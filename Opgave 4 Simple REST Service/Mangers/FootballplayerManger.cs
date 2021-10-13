@@ -8,6 +8,7 @@ namespace Opgave_4_Simple_REST_Service.Mangers
 {
     public class FootballplayerManger
     {
+		// test
         private static List<FootballPlayer> footballPlayers = new List<FootballPlayer>()
         {
             new FootballPlayer {Name = "Anders", Price = 300000, ShirtNumber = 10, Id = 1},
